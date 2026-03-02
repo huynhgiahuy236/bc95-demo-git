@@ -2,7 +2,14 @@
 @import "flowbite/src/themes/default";
 @plugin "flowbite/plugin";
 /* @source "../node_modules/flowbite"; */
+/* cap nhat them mau
 
+
+
+
+
+
+*/
 @theme {
     --color-gradient: linear-gradient(270.78deg, #ffa7a9 4.19%, #ff5ea3 96.11%);
     --color-gradient-2: linear-gradient(-90deg, #ff7df2, #ff275b);
